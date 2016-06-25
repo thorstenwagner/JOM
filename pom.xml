@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.biomedical-imaging.jom</groupId>
 	<artifactId>jom</artifactId>
-	<version>0.1.16</version>
+	<version>0.1.17-SNAPSHOT</version>
 	<name>JOM (Java Optimization Modeler)</name>
 	<description>Java Optimization Modeler</description>
 	<url>https://github.com/thorstenwagner/JOM</url>
@@ -23,7 +23,7 @@
 		<url>https://github.com/thorstenwagner/JOM</url>
 		<connection>scm:git:git://github.com/thorstenwagner/JOM.git</connection>
 		<developerConnection>scm:git:git@github.com:thorstenwagner/JOM.git</developerConnection>
-		<tag>jom-0.1.16</tag>
+		<tag>JOM-1.0.16</tag>
 	</scm>
 
 	<dependencies>
